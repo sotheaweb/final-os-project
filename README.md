@@ -38,13 +38,12 @@ Ensure you have the following installed on your system:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sotheaweb/final-os-project.git
+    git clone https://github.com/sotheaweb/final-os-project.git
 
 # Navigate into the project directory
-cd final-os-project
+    cd final-os-project
 
-2. Give execution permissions to all scripts:
-
+# Make all scripts executable
     chmod +x *.sh
 ```
 ## Usage
