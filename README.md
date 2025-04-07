@@ -46,7 +46,7 @@ cd final-os-project
 2. Give execution permissions to all scripts:
 
     chmod +x *.sh
-
+```
 ## Usage
 
     To run the program, execute the main script:
