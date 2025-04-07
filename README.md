@@ -13,7 +13,7 @@ The **File & Directory Manager** is a collection of Bash scripts designed to aut
 - **Logging**: Logs all actions performed into a file called `script.log`.
 
 ## Directory Structure
-
+```bash
 file_directory_management_Program/ 
 │── list_files.sh 
 │── backup.sh 
@@ -25,7 +25,7 @@ file_directory_management_Program/
 │── main.sh 
 │── README.md 
 │── script.log  # Log file (automatically created)
-
+```
 ## Installation
 
 ### Prerequisites
